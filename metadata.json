@@ -1,0 +1,5 @@
+{
+  "name": "NanoBanana Editor",
+  "description": "An AI-powered image editor using Gemini 2.5 Flash Image to restore, age, fix, and transform photos via text prompts.",
+  "requestFramePermissions": []
+}
